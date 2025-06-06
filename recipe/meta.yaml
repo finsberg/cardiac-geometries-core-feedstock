@@ -11,7 +11,7 @@ source:
   sha256: 2775230f070f6586706bd9a155ba47b7a13fc766d150a39000fee274568e3657
 
 build:
-  number: 0
+  number: 1
   noarch: python
   entry_points:
     - "geo=cardiac_geometries_core.cli:app"
